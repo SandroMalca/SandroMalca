@@ -18,7 +18,7 @@
 
 <h3>📑 ¿Quién soy?</h3> Soy un Desarrollador Front- End👨🏻‍💻, con una gran capacidad para trabajar en equipo y consolidar proyectos web, manteniendo siempre el entusiasmo y la buena predisposición.
 
-<h3>🌱 Conocimientos</h3>JavaScript | ES6 | ⚛️ Reaccionar | Redux | HTML | CSS | NodeJS | Express | Sequelize
+<h3>🌱 Conocimientos</h3>JavaScript | ES6 | ⚛️ React | Redux | HTML | CSS | NodeJS | Express | Sequelize
 
 <h3>📌 ¿Por qué yo?</h3> Conmigo en tu equipo, no solo habrás ganado un desarrollador con excelentes habilidades técnicas. Sino también una persona con la capacidad de integrarse en cualquier grupo de trabajo, identificar su sinergia natural y ayudar a su organización óptima, para que cada individuo logre desarrollar su máximo potencial, se sienta a gusto y valorado. Me encanta ayudar y aprender de los demás y me encuentro siempre en la búsqueda de nuevos desafíos que fortalezcan y amplíen mis conocimientos y habilidades.
 
