@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
 <p align="center"> 
-<img src="https://cdn.dribbble.com/userupload/32690165/file/original-91b920c5af3417e456bc46004300944d.gif" alt="cartero" width="400" height="400"/>
+<img src="https://businessofanimation.com/wp-content/uploads/2023/05/image-38.gif" alt="cartero" width="400" height="400"/>
 </p>
 
 <h3>📑 ¿Quién soy?</h3> Soy un Desarrollador Front- End👨🏻‍💻, con una gran capacidad para trabajar en equipo y consolidar proyectos web, manteniendo siempre el entusiasmo y la buena predisposición.
